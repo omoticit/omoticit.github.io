@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omoticit.github.io/sitemap
+Sitemap: https://omoticit.github.io/app/sitemap
+Sitemap: https://omoticit.github.io/assets/sitemap
+Sitemap: https://omoticit.github.io/css/sitemap
+Sitemap: https://omoticit.github.io/includes/sitemap
+Sitemap: https://omoticit.github.io/item/sitemap
+Sitemap: https://omoticit.github.io/src/sitemap
